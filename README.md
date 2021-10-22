@@ -1,5 +1,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=lllggghhhaaa&theme=radical&show_icons=true&count_private=true" />
 <br />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lllggghhhaaa&theme=radical" />
+<br />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lllggghhhaaa&theme=radical&layout=compact&langs_count=6" />
 
 ![](https://img.shields.io/badge/Editor-Rider-informational?style=flat&logo=rider&logoColor=white&color=2bbc8a)
